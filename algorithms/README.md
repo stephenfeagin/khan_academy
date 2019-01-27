@@ -1,5 +1,8 @@
 # [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+This repository uses [Jupyter Notebooks](https://jupyter.org) with the
+[IJavascript](https://github.com/n-riesco/ijavascript) kernel.
+
 The code in this repository is licensed under the terms of the [MIT license](../LICENSE).
 
 **Note: All Khan Academy content is available for free at (www.khanacademy.org)**
